@@ -21,6 +21,10 @@ pnpm dev
 # or
 bun dev
 ```
+Navigate to the project directory: cd skytrack
 
-Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
+Run the command:
+
+npx next dev -p 3001
+
 
